@@ -6,7 +6,7 @@
 - استفاده از حلقه foreach برای نمایش پروژه‌ها
 - ساختار تمیز قالب با header و footer جدا
 - طراحی مینیمال
-ساختار استاندارد قالب و Template Hierarchy
+- ساختار استاندارد قالب و Template Hierarchy
 
 تکنولوژی‌ها:
 PHP - WordPress - HTML - CSS
